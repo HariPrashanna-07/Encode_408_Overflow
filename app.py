@@ -3,7 +3,6 @@ from utils import fetch_ingredients
 from engine import get_ai_reasoning
 from PIL import Image
 import numpy as np
-import cv2
 from pyzbar.pyzbar import decode
 
 st.title("🛡️ Encode: AI Health Co-pilot")
