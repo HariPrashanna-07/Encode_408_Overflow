@@ -2,6 +2,4 @@ streamlit
 langchain-google-genai
 python-dotenv
 requests
-opencv-python
-pyzbar
-Pillow
+
