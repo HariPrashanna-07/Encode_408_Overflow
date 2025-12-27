@@ -1,5 +1,4 @@
 import streamlit as st
-hi
 from utils import fetch_ingredients
 from engine import get_ai_reasoning
 
