@@ -1,4 +1,4 @@
-import streamlit as st  # <--- This was missing!
+import streamlit as st  
 from utils import fetch_ingredients
 from engine import get_ai_reasoning
 from PIL import Image
